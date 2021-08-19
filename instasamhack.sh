@@ -2,7 +2,7 @@
 # InstaHackTool v7.19 (Inshackle v1.0)
 # recoded by: Sharif Bin Umar (thelinuxchoice,xd20111)
 # github.com/codewithsam07/instasam
-# If you use any part from this code, give me the credits. Kindly, read the License.
+# Kindly, read the License before copying the code.
 # Instagram @sam.sharif7
 
 
