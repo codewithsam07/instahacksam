@@ -32,7 +32,7 @@ printf " \e[1;31mM  M\e[0m\e[1;77m dP    dP \`88888P\' \e[0m\e[1;93m  dP    \`88
 printf " \e[1;31mMMMM                                    **************************************\e[0m                                                                    \n"
 printf "\n"
 
-printf "      \e[1;31m[\e[0m\e[1;77mv7.19\e[0m\e[1;31m]\e[0m\e[1;77m recoded by Sharif Bin Umar (thanks to thelinuxchoice,xd20111 )\e[0m\n"
+printf "      \e[1;31m[\e[0m\e[1;77mv7.19\e[0m\e[1;31m]\e[0m\e[1;77m recoded by Sharif Bin Umar (thanks to thelinuxchoice )\e[0m\n"
 }
 
 
