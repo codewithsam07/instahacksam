@@ -3,7 +3,7 @@
 # recoded by: Sharif Bin Umar (thelinuxchoice,xd20111)
 # github.com/codewithsam07/instasam
 # Kindly, read the License before copying the code.
-# Instagram @sam.sharif7
+# Instagram @sam.sharif7 Youtube https://www.youtube.com/channel/UCjwi-udgt0g0PZ7NRNH91Mw
 
 
 string4=$(openssl rand -hex 32 | cut -c 1-4)
