@@ -3,7 +3,7 @@
 # Working proof :
 You just have to start this once, and the bot does further work itself. Just sit and watch your followers increase. (Slow results but no labor)
 :)
-
+![Screenshot (Working)](https://user-images.githubusercontent.com/89188162/130199886-c98e4de0-8e12-4890-8025-e7fd98ef451c.png)
 # Devices you can use :
 Android,Ios,Windows,Linux and a few more. (e.g. On Termux for android, WSL for Windows)
 # Commands you have to enter first time: (May differ a bit according to device)
