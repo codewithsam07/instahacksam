@@ -7,6 +7,13 @@ You just have to start this once, and the bot does further work itself. Just sit
   
 ![Screenshot (Working)](https://user-images.githubusercontent.com/89188162/130199886-c98e4de0-8e12-4890-8025-e7fd98ef451c.png)  
 
+# You can use this bot in order to :
+
+- Track Unfollowers
+- Increase Followers
+- Download Stories, Saved Content, Following List, Followers List and Profile Info.
+- Automatic unfollow activation
+
 # Devices you can use :
 Android,Ios,Windows,Linux and a few more. (e.g. On Termux for android, WSL for Windows)  
 
@@ -16,7 +23,7 @@ Android,Ios,Windows,Linux and a few more. (e.g. On Termux for android, WSL for W
 >sudo apt-get install git  
 >sudo apt-get install openssl  
 >git clone https://github.com/codewithsam07/instahacksam  
->cd insthacksam  
+>cd instahacksam  
 >chmod +x instahacksam.sh  
 >bash instahacksam.sh  
 ## The only commands you need to use next time (No matter how many times on same device, but obviously not after device reset):
