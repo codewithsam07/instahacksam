@@ -27,6 +27,6 @@ Android,Ios,Windows,Linux and a few more. (e.g. On Termux for android, WSL for W
 
 # Thanks, if you like my content, support me on:
 
-My Instagram : https://www.instagram.com/sam.sharif7/ :revolving_hearts:  
-My youtube   : https://www.youtube.com/channel/UCjwi-udgt0g0PZ7NRNH91Mw :revolving_hearts:  
+My Instagram :revolving_hearts: : https://www.instagram.com/sam.sharif7/  
+My youtube :revolving_hearts:   : https://www.youtube.com/channel/UCjwi-udgt0g0PZ7NRNH91Mw  
 For any querries : contactme07@gmail.com
