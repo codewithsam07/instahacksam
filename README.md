@@ -34,6 +34,6 @@ Android,Ios,Windows,Linux and a few more. (e.g. On Termux for android, WSL for W
 
 # Thanks, if you like my content, support me on:
 
-My Instagram :revolving_hearts: : https://www.instagram.com/sam.sharif7/  
+My Instagram :revolving_hearts: : https://www.instagram.com/sharifumar19/  
 My youtube :revolving_hearts:   : https://www.youtube.com/channel/UCjwi-udgt0g0PZ7NRNH91Mw  
-For any querries : contactme07@gmail.com
+For any querries : codewithsam07@gmail.com
